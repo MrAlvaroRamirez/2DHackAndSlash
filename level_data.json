@@ -1,0 +1,25 @@
+{
+    "niveles": [
+        {
+            "name": "void",
+            "acts": [
+                {
+                    "methods": [
+                        {
+                            "function": "ShowDialogue",
+                            "params": "0"
+                        }
+                    ]
+                },
+                {
+                    "methods": [
+                        {
+                            "function": "Play_wait",
+                            "params": "flash_in"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
